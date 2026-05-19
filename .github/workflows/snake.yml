@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Game
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: grsanudeep42-cmd
           outputs: |
-            dist/github-snake.svg?color_snake=white&color_dots=#000000,#111111,#333333,#666666,#aaaaaa
-            dist/github-snake-dark.svg?color_snake=white&color_dots=#000000,#111111,#333333,#666666,#aaaaaa
+            dist/github-snake.svg?color_snake=#aaaaaa&color_dots=#161b22,#333333,#555555,#888888,#cccccc
+            dist/github-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#222222,#444444,#777777,#aaaaaa
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
