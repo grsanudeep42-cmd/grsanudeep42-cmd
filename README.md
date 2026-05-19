@@ -84,11 +84,11 @@ Currently engineering **Synapse** — an AI architecture with short/long-term me
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grsanudeep42-cmd&show_icons=true&theme=dark&bg_color=000000&border_color=333&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa&hide_border=false&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=grsanudeep42-cmd&show_icons=true&theme=dark&bg_color=000000&border_color=333&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa&hide_border=false&count_private=true&include_all_commits=true)
 
 ![Streak](https://streak-stats.demolab.com?user=grsanudeep42-cmd&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&dates=555555)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grsanudeep42-cmd&layout=compact&theme=dark&bg_color=000000&border_color=333&title_color=ffffff&text_color=aaaaaa&langs_count=10)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grsanudeep42-cmd&layout=compact&theme=dark&bg_color=000000&border_color=333&title_color=ffffff&text_color=aaaaaa&langs_count=10)
 
 </div>
 
