@@ -102,6 +102,20 @@ Currently engineering **Synapse** — an AI architecture with short/long-term me
 
 ---
 
+## ░ SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grsanudeep42-cmd/grsanudeep42-cmd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grsanudeep42-cmd/grsanudeep42-cmd/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/grsanudeep42-cmd/grsanudeep42-cmd/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## ░ CONNECT
 
 <div align="center">
