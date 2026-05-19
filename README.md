@@ -1,5 +1,5 @@
 <div align="center">
-<video src="https://github.com/grsanudeep42-cmd/grsanudeep42-cmd/raw/master/banner.mp4" autoplay loop muted playsinline width="100%"></video>
+<img src="./banner.gif" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm Anudeep 👋</h1>
