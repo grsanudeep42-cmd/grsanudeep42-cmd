@@ -84,16 +84,11 @@ Currently engineering **Synapse** — an AI architecture with short/long-term me
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=grsanudeep42-cmd&show_icons=true&theme=dark&bg_color=000000&border_color=333&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=grsanudeep42-cmd&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&dates=555555" alt="Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grsanudeep42-cmd&show_icons=true&theme=dark&bg_color=000000&border_color=333&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa&hide_border=false&count_private=true&include_all_commits=true)
 
-</div>
+![Streak](https://streak-stats.demolab.com?user=grsanudeep42-cmd&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&dates=555555)
 
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grsanudeep42-cmd&layout=compact&theme=dark&bg_color=000000&border_color=333&title_color=ffffff&text_color=aaaaaa&langs_count=10" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grsanudeep42-cmd&layout=compact&theme=dark&bg_color=000000&border_color=333&title_color=ffffff&text_color=aaaaaa&langs_count=10)
 
 </div>
 
@@ -102,20 +97,6 @@ Currently engineering **Synapse** — an AI architecture with short/long-term me
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grsanudeep42-cmd&bg_color=000000&color=ffffff&line=ffffff&point=555555&area_color=333333&area=true&hide_border=false&custom_title=CONTRIBUTION%20ACTIVITY)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ░ SNAKE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grsanudeep42-cmd/grsanudeep42-cmd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grsanudeep42-cmd/grsanudeep42-cmd/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/grsanudeep42-cmd/grsanudeep42-cmd/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
