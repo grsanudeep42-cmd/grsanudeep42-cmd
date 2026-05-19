@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/bf5450b5-b49f-4ee9-8fab-e0392d99ad0e" autoplay loop muted playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/bf5450b5-b49f-4ee9-8fab-e0392d99ad0e" autoplay loop muted width="100%"></video>
 </div>
 
 <h1 align="center">Hi there, I'm Anudeep 👋</h1>
