@@ -1,5 +1,5 @@
 <div align="center">
-<video src="https://github.com/user-attachments/assets/bf5450b5-b49f-4ee9-8fab-e0392d99ad0e" autoplay loop muted width="100%"></video>
+<img src="./275bd210-ab87-4384-8a89-10280825eb70.gif" width="100%" alt="Afro Samurai" />
 </div>
 
 <h1 align="center">Hi there, I'm Anudeep 👋</h1>
