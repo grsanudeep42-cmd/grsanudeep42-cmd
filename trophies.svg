@@ -1,6 +1,5 @@
 
-    <svg
-      width="770"
+    <svg style="filter: grayscale(1); opacity: 0.9;"       width="770"
       height="220"
       viewBox="0 0 770 220"
       fill="none"
