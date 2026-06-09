@@ -74,7 +74,22 @@ Currently engineering **Synapse** — an AI architecture with short/long-term me
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grsanudeep42-cmd&theme=onestar&no-bg=true&no-frame=true&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=grsanudeep42-cmd&theme=darkhub&no-bg=true&no-frame=true&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ░ CERTIFICATES
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/19eace9e-f410-471e-af21-67118e4e159c/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/19eace9e-f410-471e-af21-67118e4e159c/image.png" alt="AI Fundamentals: Foundations for Understanding AI — IBM SkillsBuild" width="150" />
+</a>
+
+**AI Fundamentals: Foundations for Understanding AI**  
+*Issued by IBM SkillsBuild · [View on Credly](https://www.credly.com/badges/19eace9e-f410-471e-af21-67118e4e159c/public_url)*
 
 </div>
 
