@@ -74,7 +74,7 @@ Currently engineering **Synapse** — an AI architecture with short/long-term me
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=grsanudeep42-cmd&theme=onestar&no-bg=true&no-frame=true&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="./trophies.svg" alt="GitHub Trophies" />
 
 </div>
 

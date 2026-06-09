@@ -1,0 +1,51 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Every Monday at 6am UTC
+  workflow_dispatch:        # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install github-profile-trophy-cli
+        run: npm install -g github-profile-trophy
+
+      - name: Generate Trophy SVG
+        run: |
+          npx github-profile-trophy \
+            --username grsanudeep42-cmd \
+            --theme onestar \
+            --no-bg \
+            --no-frame \
+            --column 7 \
+            --row 2 \
+            --output ./trophies.svg || true
+
+      - name: Fallback — fetch from working service
+        if: always()
+        run: |
+          curl -sf "https://github-trophies.vercel.app/?username=grsanudeep42-cmd&theme=onestar&no-bg=true&no-frame=true&column=7" \
+            -o ./trophies.svg || \
+          curl -sf "https://github-profile-trophy.vercel.app/?username=grsanudeep42-cmd&theme=onestar&no-bg=true&no-frame=true&column=7" \
+            -o ./trophies.svg || true
+
+      - name: Commit and push trophies
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophies.svg
+          git diff --staged --quiet || git commit -m "chore: update trophies SVG [skip ci]"
+          git push
