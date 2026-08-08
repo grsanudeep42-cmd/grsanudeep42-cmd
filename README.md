@@ -57,26 +57,16 @@ Currently engineering **Synapse** — an AI architecture with short/long-term me
 
 ---
 
-<!-- RURO:START -->
-## ░ PORTFOLIO TRUTH
+## ░ PROJECTS
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/grsanudeep42-cmd/ruro/main/assets/ruro-card.svg" width="600" alt="Ruro portfolio scorecard" />
-
-</div>
-
-| Project | Status | Score | Stack | Demo |
-|---|---|---:|---|---|
-| **[aryanbloodbank](https://github.com/grsanudeep42-cmd/aryanbloodbank)** | `LIVE` | **60** | TypeScript | live demo |
-| **[portfolio_v2](https://github.com/grsanudeep42-cmd/portfolio_v2)** | `LIVE` | **54** | JavaScript | live demo |
-| **[phantom](https://github.com/grsanudeep42-cmd/phantom)** | `ACTIVE` | **51** | Python | no demo |
-| **[railtrack-ai](https://github.com/grsanudeep42-cmd/railtrack-ai)** | `LIVE` | **50** | TypeScript | live demo |
-| **[tpm-attest](https://github.com/grsanudeep42-cmd/tpm-attest)** | `ACTIVE` | **46** | Python | no demo |
-
-<sub>Auto-maintained by [Ruro](https://github.com/grsanudeep42-cmd/ruro) · 2026-08-08 · zero AI</sub>
-<!-- RURO:END -->
-
+| Project | Description | Stack |
+|---|---|---|
+| **[Synapse](https://github.com/grsanudeep42-cmd)** | AI with persistent memory + associative graph + personality growth | `Python` `FastAPI` `MongoDB` `NetworkX` `Ollama` |
+| **[Orkestrai](https://github.com/grsanudeep42-cmd/Orkestrai)** | Autonomous multi-agent orchestration for hackathons | `Next.js` `FastAPI` `multi-LLM` |
+| **[Kronos](https://github.com/grsanudeep42-cmd/kronos)** | Fully functional OS in the browser — real VFS, real shell | `Next.js` `TypeScript` |
+| **[RailTrack AI](https://github.com/grsanudeep42-cmd/railtrack-ai)** | AI traffic decision support for Indian Railways | `TypeScript` `AI` |
+| **[Nexus](https://github.com/grsanudeep42-cmd/nexus)** | Premium full-stack team collaboration platform | `TypeScript` `React` |
+| **[ExplainMyCode](https://github.com/grsanudeep42-cmd/explainmycode)** | AI-powered code explanation tool | `Python` |
 ---
 
 ## ░ TROPHIES
